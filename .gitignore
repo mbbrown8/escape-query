@@ -1,0 +1,5 @@
+/escq
+/bin/
+*.test
+*.out
+.DS_Store
